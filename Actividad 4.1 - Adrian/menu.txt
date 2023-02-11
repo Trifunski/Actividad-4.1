@@ -1,0 +1,10 @@
+                      MENU
+************************************************
+
+1.- Añadir persona.
+2.- Generar Listado.
+3.- Buscar persona y mostrar por pantalla.
+4.- Generar Fichero.
+5.- Salir
+
+************************************************
